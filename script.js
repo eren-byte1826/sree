@@ -35,13 +35,13 @@ const CONFIG = {
   // "Little Moments" — your photo gallery. Add or remove entries freely.
   // Put your photo files inside the /images folder and match the file name.
   photos: [
-    { src: "images/photo1.jpg", caption: "The day we first met." },
-    { src: "images/photo2.jpg", caption: "Days of sharing everything." },
-    { src: "images/photo3.jpg", caption: "Us being idiots." },
-    { src: "images/photo4.jpg", caption: "That day." },
-    { src: "images/photo5.jpg", caption: "One of my favorite memories." },
-    { src: "images/photo6.jpg", caption: "US FOREVER." }
-  ],
+  { src: "photo1.jpg", caption: "The day we first met." },
+  { src: "photo2.jpg", caption: "Days of sharing everything." },
+  { src: "photo3.jpg", caption: "Us being idiots." },
+  { src: "photo4.jpg", caption: "That day." },
+  { src: "photo5.jpg", caption: "One of my favorite memories." },
+  { src: "photo6.jpeg", caption: "US FOREVER." }
+],
 
   // "Things I Like About You" — exactly 6 cards, tap to flip and reveal
   likes: [
@@ -62,9 +62,9 @@ const CONFIG = {
 
   // The song section
   music: {
-    lead: "There's a song I wanted you to hear.",
-    file: "music/song.mp3"
-  },
+  lead: "There's a song I wanted you to hear.",
+  file: "Ojhal.mp3"
+},
 
   // The final surprise (Screen 8)
   final: {

@@ -40,7 +40,7 @@ const CONFIG = {
   { src: "photo3.jpg", caption: "Us being idiots." },
   { src: "photo4.jpg", caption: "That day." },
   { src: "photo5.jpg", caption: "One of my favorite memories." },
-  { src: "photo6.jpeg", caption: "US FOREVER." }
+  { src: "photo6.jpg", caption: "US FOREVER." }
 ],
 
   // "Things I Like About You" — exactly 6 cards, tap to flip and reveal

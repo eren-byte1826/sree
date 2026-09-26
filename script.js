@@ -146,7 +146,8 @@ const CONFIG = {
 
     title: "Happy Birthday, Sree ❤",
 
-    message: "I told you before and I am saying again, doesn't matter far we go, doesn't matter what our future will be. I was, am and will always be there for you. I promised you and will keep it forever that if it's not you then no one. I don't know what will happen but all I want you to know is I love you Sree and I will forever."
+    message: "Sree, no matter where life takes us or how much things change, I hope you always know that you’ll have a special place in my heart. ❤️
+Thank you for being you, for staying, and for becoming such a beautiful part of my life — I’ll always cherish us."
 
   },
 
@@ -170,7 +171,7 @@ const CONFIG = {
 
     wrongMessage: "Not quite. Try again.",
 
-    message: "[SECRET MESSAGE GOES HERE]"
+    message: "[I told you before and I am saying again, doesn't matter far we go, doesn't matter what our future will be. I was, am and will always be there for you. I promised you and will keep it forever that if it's not you then no one. I don't know what will happen but all I want you to know is I love you Sree and I will forever.]"
 
   }
 
